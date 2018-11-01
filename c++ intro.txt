@@ -1,0 +1,23 @@
+Tests.activeBatsTest('test.bats', callback);
+
+
+@test "Add `Hello World` between the quotes and compile your program with `g++ main.cpp`" {
+  run echo "$(./a.out)" 
+  [ "$output" = "Hello World!" ]
+}
+
+
+Tests.componentTest(function (Components) {
+  var validCommands = ['g++ main.cpp'];
+  if (Components.Terminal.didRunOneOf(validCommands, 0)) {
+    return { pass: true };
+  }
+  return {
+    pass: false,
+    passive: false,
+    errors: {
+      friendly: 'Did you type the command correctly?',
+      component: 'Terminal'
+    }
+  };
+}, callback);
