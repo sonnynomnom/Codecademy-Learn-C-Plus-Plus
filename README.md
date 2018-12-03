@@ -4,8 +4,7 @@
 
 [logo]: https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png "Columbia University"
 
-**Curriculum Developer:** Songqiao "Sonny" Li (sonny@codecademy.com) 
-
+**Creator:** Songqiao "Sonny" Li (sonny@codecademy.com) 
 **Art & Illustrations** Jared Langel
 
 <br />
