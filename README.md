@@ -5,7 +5,7 @@
 [logo]: https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png "Columbia University"
 
 **Creator:** Songqiao "Sonny" Li (sonny@codecademy.com) 
-**Art & Illustrations** Jared Langel
+**Art & Illustrations** Jared Langel (jlangel915@gmail.com)
 
 <br />
 <br />
