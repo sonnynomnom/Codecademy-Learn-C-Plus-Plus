@@ -2,14 +2,13 @@
 // Dog Years
 
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
 
   string dog_name;
-  int dog_age;
+  int dog_age = 3;
 
   int early_years, later_years, human_years;
 
@@ -23,5 +22,5 @@ int main()
   cin >> dog_name;
 
   cout << "My name is " << dog_name << "! Ruff Ruff, I am " << human_years << " years old in human years.\n";
-    
+
 }

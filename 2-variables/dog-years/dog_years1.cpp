@@ -3,8 +3,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
 
@@ -18,6 +16,6 @@ int main()
 
   human_years = early_years + later_years;
 
-  cout << "My name is Sparkles! Ruff Ruff, I am " << human_years << " years old in human years.\n";
+  std::cout << "My name is Sparkles! Ruff Ruff, I am " << human_years << " years old in human years.\n";
 
 }
