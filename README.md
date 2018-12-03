@@ -2,7 +2,7 @@
 
 ![Columbia University][logo]
 
-[logo]: https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/logo.png "Columbia University"
+[logo]: https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png "Columbia University"
 
 **Curriculum Developer:** Songqiao "Sonny" Li (sonny@codecademy.com) 
 
