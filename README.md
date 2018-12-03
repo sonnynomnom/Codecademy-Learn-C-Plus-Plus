@@ -13,7 +13,7 @@
 
 ## Course Description ##
 
-An intensive course designed to develop logic and programming skills through immersion in the fundamentals of C. Programming projects involving mathematical problems and word games challenge students to develop their logical reasoning, systematic thinking, and problem-solving skills. Students learn the structure and features of a fundamental programming language as they implement solutions in C. In addition to teaching programming techniques, the course will cover an overview of fundamental computing concepts including data structures, library design, and memory management. Labs are carried out in Linux Virtual Machines configured for the class and installed on the student’s personal laptop computer.
+An intensive course designed to develop logic and programming skills through immersion in the fundamentals of C++. Programming projects involving mathematical problems and word games challenge students to develop their logical reasoning, systematic thinking, and problem-solving skills. Students learn the structure and features of a fundamental programming language as they implement solutions in C++. In addition to teaching programming techniques, the course will cover an overview of fundamental computing concepts including data structures, library design, and memory management.
 
 ### Note ###
 
@@ -21,16 +21,16 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Course Objectives ###
 
-1. Hello World
-2. Variables
-3. Conditional & Logic (Coming soon!)
-4. Loops (Coming soon!)
-
 * Understanding basic computer science concepts
 * Program in C++ and have a solid foundation to extend their knowledge in more complex problems
 * Think like programmers and apply programming practices in real-life problems
 
 ### Syllabus ###
+
+1. Hello World
+2. Variables
+3. Conditional & Logic (Coming soon!)
+4. Loops (Coming soon!)
 
 ### Textbook ###
 
@@ -41,7 +41,7 @@ Programming Princeples and Practice Using C++ (Bjarne Stroustrup)
 [https://discord.gg/N95DFrT](https://discord.gg/N95DFrT)  
 
 
-### Week 1 ###
+### 1. Hello World ###
 
 ```
 $ g++ hello.cpp -o hello
@@ -67,7 +67,7 @@ $ ./hello
 - [x] [`leapyear.c`](Programs/leapyear.c)
 - [ ] `switch.c`
 
-### Week 2 ###
+### 2. Variables ###
 
 - [x] [`enterPIN.c`](Programs/enterPIN.c)
 - [x] [`guessing1.c`](Programs/guessing1.c)
@@ -96,7 +96,7 @@ $ ./hello
 - [x] [`alternate.c`](Programs/alternate.c)
 - [x] [`findme.c`](Programs/findme.c)
 
-### Week 3 ###
+### 3. Conditional & Logic ###
 
 - [x] [`hypotenuse.c`](Programs/hypotenuse.c)
 - [x] [`area.c`](Programs/area.c)
