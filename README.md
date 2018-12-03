@@ -5,6 +5,7 @@
 [logo]: https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png "Columbia University"
 
 **Creator:** Songqiao "Sonny" Li (sonny@codecademy.com) 
+
 **Art & Illustrations** Jared Langel (jlangel915@gmail.com)
 
 <br />
@@ -20,9 +21,16 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Course Objectives ###
 
+1. Hello World
+2. Variables
+3. Conditional & Logic (Coming soon!)
+4. Loops (Coming soon!)
+
 * Understanding basic computer science concepts
-* Program in C and have a solid foundation to extend their knowledge in more complex problems
+* Program in C++ and have a solid foundation to extend their knowledge in more complex problems
 * Think like programmers and apply programming practices in real-life problems
+
+### Syllabus ###
 
 ### Textbook ###
 
