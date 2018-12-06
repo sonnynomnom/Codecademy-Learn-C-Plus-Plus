@@ -5,13 +5,15 @@
 
 int main()
 {
-
-  cout << "  SSS   L     \n";
-  cout << " S   S  L     \n";
-  cout << " S      L     \n";
-  cout << "  SSS   L     \n";
-  cout << "     S  L     \n";
-  cout << " S   S  L     \n";
-  cout << "  SSS   LLLLL \n";
-
+  
+  std::cout << "  SSS   L     \n";
+  std::cout << " S   S  L     \n";
+  std::cout << " S      L     \n";
+  std::cout << "  SSS   L     \n";
+  std::cout << "     S  L     \n";
+  std::cout << " S   S  L     \n";
+  std::cout << "  SSS   LLLLL \n";
+  
+  return 0;
+  
 }
