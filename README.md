@@ -34,7 +34,7 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 ### Textbook ###
 
-Programming Principles and Practice Using C++ (Bjarne Stroustrup)
+[Programming Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0321543726#customerReviews) (Bjarne Stroustrup)
 
 ### Discord ###
 
