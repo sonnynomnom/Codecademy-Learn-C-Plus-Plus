@@ -35,9 +35,16 @@ int main() {
   else
     std::cout << "cpu choose: ✌️\n";
   
+  
+  if (user == computer) {
+    
+    std::cout << "it's a tie!\n";
+    
+  } 
+  
   // user rock
   
-  if (user == 1) {
+  else if (user == 1) {
     
     if (computer == 2) {
       
@@ -83,14 +90,6 @@ int main() {
       std::cout << "you lost! booooo!\n";
       
     }
-    
-  }
-  
-  // tie
-  
-  else {
-    
-    std::cout << "it's a tie!\n";
     
   }
   
