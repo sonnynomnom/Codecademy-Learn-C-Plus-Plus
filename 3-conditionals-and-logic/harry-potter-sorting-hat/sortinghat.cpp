@@ -9,9 +9,9 @@ int main() {
 
   int answer1, answer2, answer3;
 
-  std::cout << "================\n";
-  std::cout << "The Sorting Hat 🧙🏼‍♂️!\n";
-  std::cout << "================\n\n";
+  std::cout << "=================\n";
+  std::cout << "The Sorting Hat 🧙🏼‍♂️\n";
+  std::cout << "=================\n\n";
 
   // ~~~~~~~~~~ Question 1 ~~~~~~~~~~
 
