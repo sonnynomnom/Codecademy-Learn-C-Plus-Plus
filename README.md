@@ -2,22 +2,22 @@
 
 ![Columbia University][logo]
 
-[logo]: https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png "Columbia University"
+[logo]: https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png "Codecademy"
 
-**Creator:** Songqiao "Sonny" Li (sonny@codecademy.com) 
+**Curriulum:** Songqiao "Sonny" Li (sonny@codecademy.com) 
 
-**Art & Illustrations** Jared Langel (jlangel915@gmail.com)
+**Art:** Jared Langel (jlangel915@gmail.com)
 
 <br />
 <br />
 
 ## Course Description ##
 
-An intensive course designed to develop logic and programming skills through immersion in the fundamentals of C++. Programming projects involving mathematical problems and word games challenge students to develop their logical reasoning, systematic thinking, and problem-solving skills. Students learn the structure and features of a fundamental programming language as they implement solutions in C++. In addition to teaching programming techniques, the course will cover an overview of fundamental computing concepts including data structures, library design, and memory management.
+An intensive course designed to develop logic and programming skills through immersion in the fundamentals of C++. Programming projects involving mathematical problems and retro games challenge students to develop their logical reasoning, systematic thinking, and problem-solving skills. Students learn the structure and features of a fundamental programming language as they implement solutions in C++. In addition to teaching programming techniques, the course will cover an overview of fundamental computing concepts including data structures, pointers, templates, and memory management.
 
 ### Note ###
 
-Participants are expected to bring laptops and notebooks to class. Laptops can either be a PC or a Mac, but should have 8GB - 10GB of free space.
+Learners are expected to take notes during lessons. Desktop & laptops can either be a PC or a Mac, but should have 8GB - 10GB of free space. The preferred browser is Google Chrome.
 
 ### Course Objectives ###
 
@@ -29,8 +29,12 @@ Participants are expected to bring laptops and notebooks to class. Laptops can e
 
 1. Hello World
 2. Variables
-3. Conditional & Logic (Coming soon!)
+3. Conditional & Logic
 4. Loops (Coming soon!)
+5. Arrays & Strings (Coming soon!)
+6. Functions (Coming soon!)
+7. Pointers (Coming soon!)
+8. Templates (Coming soon!)
 
 ### Textbook ###
 
