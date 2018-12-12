@@ -52,7 +52,9 @@ $ ./hello
 ```
 
 - [x] [`hello.cpp`](Programs/hello.c)
+
 - [x] [`pattern.cpp`](Programs/pattern.c)  
+
 - [x] [`initials.cpp`](Programs/initials.c)
 
 ### 2. Variables ###
