@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png" width=200;> 
 
-**Curriulum:** Songqiao "Sonny" Li (sonny@codecademy.com) 
+**Curriulum:** Sonny Li (sonny@codecademy.com) 
 
 **Art:** Jared Langel (jlangel915@gmail.com)
 
