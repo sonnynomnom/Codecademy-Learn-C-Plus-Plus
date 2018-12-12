@@ -11,6 +11,10 @@
 <br />
 <br />
 
+## Course Link ##
+
+https://www.codecademy.com/learn/learn-c-plus-plus
+
 ## Course Description ##
 
 An intensive course designed to develop logic and programming skills through immersion in the fundamentals of C++. Programming projects involving mathematical problems and retro games challenge students to develop their logical reasoning, systematic thinking, and problem-solving skills. Students learn the structure and features of a fundamental programming language as they implement solutions in C++. In addition to teaching programming techniques, the course will cover an overview of fundamental computing concepts including data structures, pointers, templates, and memory management.
