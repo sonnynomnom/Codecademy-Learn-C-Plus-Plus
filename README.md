@@ -51,26 +51,30 @@ $ g++ hello.cpp -o hello
 $ ./hello
 ```
 
-- [x] [`hello.c`](Programs/hello.c)
-- [x] [`pattern.c`](Programs/pattern.c)  
-- [x] [`initials.c`](Programs/initials.c)
-
-- [x] [`temp1.c`](Programs/temp1.c)
-- [x] [`temp2.c`](Programs/temp2.c)
-- [x] [`bmi.c`](Programs/bmi.c)
-- [x] [`quadratic.c`](Programs/quadratic.c)
-- [x] [`currency.c`](Programs/currency.c)
-
-- [x] [`flipcoin.c`](Programs/flipcoin.c)
-- [x] [`pH.c`](Programs/pH.c)
-- [x] [`magic8ball.c`](Programs/magic8ball.c)
-- [x] [`spaceboxer.c`](Programs/spaceboxer.c)
-- [x] [`quiz.c`](Programs/quiz.c)
-
-- [x] [`leapyear.c`](Programs/leapyear.c)
-- [ ] `switch.c`
+- [x] [`hello.cpp`](Programs/hello.c)
+- [x] [`pattern.cpp`](Programs/pattern.c)  
+- [x] [`initials.cpp`](Programs/initials.c)
 
 ### 2. Variables ###
+
+- [x] `temp1.cpp`
+- [x] `temp2.cpp`
+- [x] `bmi.cpp`
+- [x] `quadratic.cpp`
+- [x] `currency.cpp`
+
+- [x] `coinflip.cpp`
+- [x] `pH.cpp`
+- [x] `magic8ball.cpp`
+- [x] `spaceboxer.cpp`
+- [x] `magic8.cpp`
+- [x] `sortinghat.cpp`
+- [x] `rock_paper_scissors.cpp`
+
+- [ ] `leapyear.cpp`
+- [ ] `switch.cpp`
+
+### 3. Conditional & Logic ###
 
 - [x] [`enterPIN.c`](Programs/enterPIN.c)
 - [x] [`guessing1.c`](Programs/guessing1.c)
@@ -99,7 +103,6 @@ $ ./hello
 - [x] [`alternate.c`](Programs/alternate.c)
 - [x] [`findme.c`](Programs/findme.c)
 
-### 3. Conditional & Logic ###
 
 - [x] [`hypotenuse.c`](Programs/hypotenuse.c)
 - [x] [`area.c`](Programs/area.c)
