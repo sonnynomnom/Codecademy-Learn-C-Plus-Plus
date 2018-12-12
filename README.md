@@ -6,9 +6,6 @@
 
 **Art:** Jared Langel (jlangel915@gmail.com)
 
-<br />
-<br />
-
 ## Course Link ##
 
 https://www.codecademy.com/learn/learn-c-plus-plus
