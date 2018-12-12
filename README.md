@@ -10,31 +10,6 @@
 
 https://www.codecademy.com/learn/learn-c-plus-plus
 
-## Course Description ##
-
-An intensive course designed to develop logic and programming skills through immersion in the fundamentals of C++. Programming projects involving mathematical problems and retro games challenge students to develop their logical reasoning, systematic thinking, and problem-solving skills. Students learn the structure and features of a fundamental programming language as they implement solutions in C++. In addition to teaching programming techniques, the course will cover an overview of fundamental computing concepts including data structures, pointers, templates, and memory management.
-
-### Note ###
-
-Learners are expected to take notes during lessons. Desktop & laptops can either be a PC or a Mac, but should have 8GB - 10GB of free space. The preferred browser is Google Chrome.
-
-### Course Objectives ###
-
-* Understanding basic computer science concepts
-* Program in C++ and have a solid foundation to extend their knowledge in more complex problems
-* Think like programmers and apply programming practices in real-life problems
-
-### Syllabus ###
-
-1. Hello World
-2. Variables
-3. Conditional & Logic
-4. Loops (Coming soon!)
-5. Arrays & Strings (Coming soon!)
-6. Functions (Coming soon!)
-7. Pointers (Coming soon!)
-8. Templates (Coming soon!)
-
 ### Textbook ###
 
 [Programming Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0321543726#customerReviews) (Bjarne Stroustrup)
