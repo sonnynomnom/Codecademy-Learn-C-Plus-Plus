@@ -1,8 +1,6 @@
 # Codecademy Learn C++
 
-![Columbia University][logo]
-
-<img src="https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png"> "Codecademy"
+<img src="https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/codecademy_logo.png" width=200;> 
 
 **Curriulum:** Songqiao "Sonny" Li (sonny@codecademy.com) 
 
