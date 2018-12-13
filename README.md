@@ -26,32 +26,36 @@ $ g++ hello.cpp -o hello
 $ ./hello
 ```
 
-- [x] [`hello.cpp`](Programs/hello.c)
-
-- [x] [`pattern.cpp`](Programs/pattern.c)  
-
-- [x] [`initials.cpp`](Programs/initials.c)
+- [x] [`hello.cpp`](Programs/hello.cpp)  
+- [x] [`pattern.cpp`](Programs/pattern.cpp)  
+- [x] [`letter.cpp`](Programs/letter.cpp)  
+- [x] [`spell.cpp`](Programs/spell.cpp)
+- [x] [`initials.cpp`](Programs/initials.cpp)  
 
 ### 2. Variables ###
 
-- [x] `temp1.cpp`
-- [x] `temp2.cpp`
-- [x] `bmi.cpp`
-- [x] `quadratic.cpp`
-- [x] `currency.cpp`
+- [x] [`temperature.cpp`](Programs/temperature.cpp)
+- [x] [`temperature2.cpp`](Programs/temperature2.cpp)
+- [x] [`bmi.cpp`](Programs/bmi.cpp)
+- [x] [`dog_years.cpp`](Programs/dog_years.cpp)
+- [x] [`quadratic.cpp`](Programs/quadratic.cpp)
+- [x] [`currency.cpp`](Programs/quadratic.cpp)
 
-- [x] `coinflip.cpp`
-- [x] `pH.cpp`
-- [x] `magic8ball.cpp`
-- [x] `spaceboxer.cpp`
-- [x] `magic8.cpp`
-- [x] `sortinghat.cpp`
-- [x] `rock_paper_scissors.cpp`
+### 3. Conditional & Logic ###
+
+- [x] [`coinflip.cpp`](Programs/coinflip.cpp]
+- [x] [`grade.cpp`](Programs/grade.cpp]
+- [x] [`pH.cpp`](Programs/ph.cpp]
+- [x] [`pokedex.cpp`](Programs/pokedex.cpp)
+- [x] [`spaceboxer.cpp`](Programs/spaceboxer.cpp)
+- [x] [`magic8.cpp`](Programs/magic8.cpp)
+- [x] [`sortinghat.cpp`](Programs/sortinghat.cpp)
+- [x] [`rock_paper_scissors.cpp`](Programs/rock_paper_scissors.cpp)
 
 - [ ] `leapyear.cpp`
 - [ ] `switch.cpp`
 
-### 3. Conditional & Logic ###
+### 4. Loops ###
 
 - [x] [`enterPIN.c`](Programs/enterPIN.c)
 - [x] [`guessing1.c`](Programs/guessing1.c)
