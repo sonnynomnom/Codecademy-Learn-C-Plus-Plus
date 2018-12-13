@@ -100,19 +100,19 @@ $ ./hello
 
 More coming soon!
 
-### Mini Projects ###
+### Hall of Fame ###
 
-* **Week 1:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler
-* **Week 1:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
-* **Week 1:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
-* **Week 1:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
-* **Week 1:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
+* **2019:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler
+* **2019:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
+* **2019:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
+* **2019:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
+* **2019:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
 
-* **Week 2:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
-* **Week 2:** [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay
-* **Week 2:** [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci
-* **Week 2:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
-* **Week 2:** [Hangman](Projects/hangman.c) - Marcus Kapoor
+* **2019:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
+* **2019:** [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay
+* **2019:** [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci
+* **2019:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
+* **2019:** [Hangman](Projects/hangman.c) - Marcus Kapoor
 
 ### Final Projects ###
 
