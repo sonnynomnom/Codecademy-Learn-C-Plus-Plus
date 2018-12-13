@@ -29,7 +29,7 @@ $ ./hello
 - [x] [`hello.cpp`](Programs/hello.cpp)  
 - [x] [`pattern.cpp`](Programs/pattern.cpp)  
 - [x] [`letter.cpp`](Programs/letter.cpp)  
-- [x] [`spell.cpp`](Programs/spell.cpp)
+- [x] [`spell.cpp`](Programs/spell.cpp)  
 - [x] [`initials.cpp`](Programs/initials.cpp)  
 
 ### 2. Variables ###
