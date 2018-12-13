@@ -100,26 +100,25 @@ $ ./hello
 
 More coming soon!
 
-### Hall of Fame ###
-
-* **2019:** [Rock-Paper-Scissors-Lizard-Spock](Projects/rockpaperscissors.c) - Marcus Kapoor, Andrea Corro & Louie Kotler
-* **2019:** [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
-* **2019:** [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
-* **2019:** [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
-* **2019:** [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
-
-* **2019:** [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
-* **2019:** [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay
-* **2019:** [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci
-* **2019:** [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
-* **2019:** [Hangman](Projects/hangman.c) - Marcus Kapoor
-
-### Final Projects ###
+### Terminal Game Challenge ###
 
 * Space Invaders - Brandon Lim + co. (Coming soon!)
 * [Battleship](Projects/battleship.c) - Louie Kotler, Simone Stern & Chris Narducci
 * Tron - Marcus Kapoor and Jacob Lindahl (Coming soon!)
 * [Black Jack](Projects/blackjack.png) - Michael Hanlon
+
+### Hall of Fame ###
+
+* [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
+* [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
+* [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
+* [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
+* [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
+* [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay
+* [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci
+* [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
+* [Hangman](Projects/hangman.c) - Marcus Kapoor
+
 <br>
 
 <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />
