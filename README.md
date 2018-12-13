@@ -43,9 +43,9 @@ $ ./hello
 
 ### 3. Conditional & Logic ###
 
-- [x] [`coinflip.cpp`](Programs/coinflip.cpp]
-- [x] [`grade.cpp`](Programs/grade.cpp]
-- [x] [`pH.cpp`](Programs/ph.cpp]
+- [x] [`coinflip.cpp`](Programs/coinflip.cpp)
+- [x] [`grade.cpp`](Programs/grade.cpp)
+- [x] [`pH.cpp`](Programs/ph.cpp)
 - [x] [`pokedex.cpp`](Programs/pokedex.cpp)
 - [x] [`spaceboxer.cpp`](Programs/spaceboxer.cpp)
 - [x] [`magic8.cpp`](Programs/magic8.cpp)
