@@ -100,12 +100,9 @@ $ ./hello
 
 More coming soon!
 
-### Terminal Game Challenge ###
+### Terminal Game Challenge 2019 ###
 
-* Space Invaders - Brandon Lim + co. (Coming soon!)
-* [Battleship](Projects/battleship.c) - Louie Kotler, Simone Stern & Chris Narducci
-* Tron - Marcus Kapoor and Jacob Lindahl (Coming soon!)
-* [Black Jack](Projects/blackjack.png) - Michael Hanlon
+* Coming soon!
 
 ### Hall of Fame ###
 
@@ -113,11 +110,6 @@ More coming soon!
 * [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
 * [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
 * [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
-* [Times Table](Projects/timestable.c) - Alexan Varelas, David Fang & Jonathan Daniel
-* [Connect Four](Projects/connectfour.c) - Andrea Corro, Zachary Hine & Jason Chay
-* [Matching](Projects/matching.c) - Louie Kotler, Simone Stern & Chris Narducci
-* [Tic-Tac-Toe](Projects/tictactoe.c) - Brandon Lim & Jack Lu
-* [Hangman](Projects/hangman.c) - Marcus Kapoor
 
 <br>
 
