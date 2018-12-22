@@ -4,7 +4,7 @@
 
 **Curriulum:** Sonny Li (sonny@codecademy.com) 
 
-**Art:** Jared Langel
+**Art:** [Jared Langel](https://www.instagram.com/_jaredlangel/)
 
 ## Course Link ##
 
