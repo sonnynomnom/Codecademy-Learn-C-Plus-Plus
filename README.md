@@ -4,7 +4,7 @@
 
 **Curriulum:** Sonny Li (sonny@codecademy.com) 
 
-**Art:** Jared Langel (jlangel915@gmail.com)
+**Art:** Jared Langel
 
 ## Course Link ##
 
