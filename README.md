@@ -26,8 +26,8 @@ $ g++ hello.cpp -o hello
 $ ./hello
 ```
 
-- [x] [`hello.cpp`](Programs/hello.cpp)  
-- [x] [`pattern.cpp`](Programs/pattern.cpp)  
+- [x] [`hello.cpp`](1-hello-world/hello.cpp) 
+- [x] [`pattern.cpp`](1-hello-world/pattern.cpp)  
 - [x] [`letter.cpp`](Programs/letter.cpp)  
 - [x] [`spell.cpp`](Programs/spell.cpp)  
 - [x] [`initials.cpp`](Programs/initials.cpp)  
@@ -41,7 +41,7 @@ $ ./hello
 - [x] [`quadratic.cpp`](Programs/quadratic.cpp)
 - [x] [`currency.cpp`](Programs/quadratic.cpp)
 
-### 3. Conditional & Logic ###
+### 3. Conditionals & Logic ###
 
 - [x] [`coinflip.cpp`](Programs/coinflip.cpp)
 - [x] [`grade.cpp`](Programs/grade.cpp)
