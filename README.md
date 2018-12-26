@@ -26,28 +26,28 @@ $ g++ hello.cpp -o hello
 $ ./hello
 ```
 
-- [x] [`hello.cpp`](1-hello-world/hello.cpp) 
+- [x] [`hello.cpp`](1-hello-world/hello.cpp)  
 - [x] [`pattern.cpp`](1-hello-world/pattern.cpp)  
-- [x] [`letter.cpp`](Programs/letter.cpp)  
-- [x] [`spell.cpp`](Programs/spell.cpp)  
-- [x] [`initials.cpp`](Programs/initials.cpp)  
+- [x] `letter.cpp`
+- [x] `spell.cpp`
+- [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
 
 ### 2. Variables ###
 
-- [x] [`temperature.cpp`](Programs/temperature.cpp)
-- [x] [`temperature2.cpp`](Programs/temperature2.cpp)
-- [x] [`bmi.cpp`](Programs/bmi.cpp)
+- [x] `temperature.cpp`
+- [x] `temperature2.cpp`
+- [x] `bmi.cpp`
 - [x] [`dog_years.cpp`](Programs/dog_years.cpp)
 - [x] [`quadratic.cpp`](Programs/quadratic.cpp)
 - [x] [`currency.cpp`](Programs/quadratic.cpp)
 
 ### 3. Conditionals & Logic ###
 
-- [x] [`coinflip.cpp`](Programs/coinflip.cpp)
-- [x] [`grade.cpp`](Programs/grade.cpp)
-- [x] [`pH.cpp`](Programs/ph.cpp)
-- [x] [`pokedex.cpp`](Programs/pokedex.cpp)
-- [x] [`spaceboxer.cpp`](Programs/spaceboxer.cpp)
+- [x] `coinflip.cpp`
+- [x] `grade.cpp`
+- [x] `pH.cpp`
+- [x] `pokedex.cpp`
+- [x] `spaceboxer.cpp`
 - [x] [`magic8.cpp`](Programs/magic8.cpp)
 - [x] [`sortinghat.cpp`](Programs/sortinghat.cpp)
 - [x] [`rock_paper_scissors.cpp`](Programs/rock_paper_scissors.cpp)
