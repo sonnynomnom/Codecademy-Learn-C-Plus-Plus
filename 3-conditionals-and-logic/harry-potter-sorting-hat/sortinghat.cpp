@@ -7,21 +7,21 @@ int main() {
   int ravenclaw = 0;
   int slytherin = 0;
 
-  int answer1, answer2, answer3;
+  int answer1, answer2, answer3, answer4;
 
-  std::cout << "=================\n";
-  std::cout << "The Sorting Hat 🧙🏼‍♂️\n";
-  std::cout << "=================\n\n";
+  std::cout << "===============\n";
+  std::cout << "The Sorting Hat\n";
+  std::cout << "===============\n\n";
 
   // ~~~~~~~~~~ Question 1 ~~~~~~~~~~
 
   std::cout << "Q1) When I'm dead, I want people to remember me as:\n\n";
-  
+
   std::cout << "  1) The Good\n";
   std::cout << "  2) The Great\n";
   std::cout << "  3) The Wise\n";
   std::cout << "  4) The Bold\n\n";
-  
+
   std::cout << "Enter your answer (1-4): ";
   std::cin >> answer1;
 
@@ -44,21 +44,21 @@ int main() {
   std::cout << "Enter your answer (1-2): ";
   std::cin >> answer2;
 
-  if (answer2 == 1) 
+  if (answer2 == 1)
   {
-    
+
     gryffindor++;
     ravenclaw++;
-  
-  } 
-  else if (answer2 == 2) 
+
+  }
+  else if (answer2 == 2)
   {
 
     hufflepuff++;
     slytherin++;
 
   }
-  else 
+  else
   {
 
     std::cout << "Invalid input\n";
@@ -77,13 +77,13 @@ int main() {
   std::cout << "Enter your answer (1-4): ";
   std::cin >> answer3;
 
-  if (answer1 == 1)
+  if (answer3 == 1)
     slytherin++;
-  else if (answer1 == 2)
+  else if (answer3 == 2)
     hufflepuff++;
-  else if (answer1 == 3)
+  else if (answer3 == 3)
     ravenclaw++;
-  else if (answer1 == 4)
+  else if (answer3 == 4)
     gryffindor++;
 
   // ~~~~~~~~~~ Question 4 ~~~~~~~~~~
@@ -96,56 +96,56 @@ int main() {
   std::cout << "  4) The cobbled street lined (ancient buildings)\n\n";
 
   std::cout << "Enter your answer (1-4): ";
-  std::cin >> answer3;
+  std::cin >> answer4;
 
-  if (answer1 == 1)
+  if (answer4 == 1)
     hufflepuff++;
-  else if (answer1 == 2)
+  else if (answer4 == 2)
     slytherin++;
-  else if (answer1 == 3)
+  else if (answer4 == 3)
     gryffindor++;
-  else if (answer1 == 4)
+  else if (answer4 == 4)
     ravenclaw++;
-  
+
   // ========== Sorting ==========
 
-  std::cout << "Congrats on being sorted into... ";
+  std::cout << "\nCongrats on being sorted into... ";
 
   int max = 0;
   std::string house;
 
-  if (gryffindor > max) 
+  if (gryffindor > max)
   {
 
     max = gryffindor;
     house = "Gryffindor";
-    
+
   }
 
-  if (hufflepuff > max) 
+  if (hufflepuff > max)
   {
 
     max = hufflepuff;
     house = "Hufflepuff";
 
   }
-  
-  if (ravenclaw > max) 
+
+  if (ravenclaw > max)
   {
 
     max = ravenclaw;
     house = "Ravenclaw";
 
   }
-  
-  if (slytherin > max) 
+
+  if (slytherin > max)
   {
 
     max = slytherin;
     house = "Slytherin";
 
   }
-  
+
   std::cout << house << "!\n";
 
   return 0;
