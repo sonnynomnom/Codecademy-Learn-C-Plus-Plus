@@ -30,7 +30,11 @@ $ ./hello
 - [x] [`pattern.cpp`](1-hello-world/pattern.cpp)  
 - [x] `letter.cpp`
 - [x] `spell.cpp`
+
+**Projects**
+
 - [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
+- [x] [`snowman.cpp`](1-hello-world/block-letters/snowman.cpp)
 
 ### 2. Variables ###
 
