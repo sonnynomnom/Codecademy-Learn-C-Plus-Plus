@@ -31,7 +31,7 @@ $ ./hello
 - [x] `letter.cpp`
 - [x] `spell.cpp`
 
-**Projects**
+**Block Letters**
 
 - [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
 - [x] [`snowman.cpp`](1-hello-world/block-letters/snowman.cpp)
