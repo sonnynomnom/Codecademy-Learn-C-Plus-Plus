@@ -87,44 +87,7 @@ $ ./hello
 
 - [x]  [`fizzbuzz.cpp`](Programs/fizzbuzz.c)
 
-
-## Others: ##
-
-- [ ] `adding.cpp`
-
-- [ ] `pattern1.c
-- [ ] `pattern2.c`
-
-- [x] `prime1.c`(Programs/prime1.c)
-- [x] [`prime2.c`](Programs/prime2.c)
-
-- [x] [`reverse.c`](Programs/reverse.c)
-- [x] [`armstrong.c`](Programs/armstrong.c)
-
-- [x] [`mimzy.c`](Programs/mimzy.c)
-- [x] [`oddeven.c`](Programs/oddeven.c)
-
-- [x] [`ascending.c`](Programs/ascending1.c) vs. [`ascending2.c`](Programs/ascending2.c)
-
-- [x] [`strings.c`](Programs/strings.c)
-- [x] [`alternate.c`](Programs/alternate.c)
-- [x] [`findme.c`](Programs/findme.c)
-
-
-- [x] [`hypotenuse.c`](Programs/hypotenuse.c)
-- [x] [`area.c`](Programs/area.c)
-
-- [x] [`books.c`](Programs/books.c)
-- [x] [`cars.c`](Programs/cars.c)
-
-- [x] [`enum.c`](Programs/enum.c)
-
-- [x] [`factorial.c`](Programs/factorial.c)
-- [x] [`fibonacci.c`](Programs/fibonacci.c)
-
-- [x] [`pointers.c`](Programs/pointers.c)
-
-More coming soon!
+## 5. More coming soon! ##
 
 ### Terminal Game Challenge 2019 ###
 
@@ -133,9 +96,7 @@ More coming soon!
 ### Hall of Fame ###
 
 * [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
-* [Lost In Forest: Adventure](Projects/lostinforest.c) - Jack Lu, Simone Stern, Zachery Hine & Spencer Rowley
-* [Who Wants to Be a Millionaire](Projects/millionaire.c) - Cruz Fernandez, Jordana Pearlman & Jason Chay
-* [Blackout](Projects/blackout.c) - Ariel Gross, Jonathan Daniel & Steve You
+* You?
 
 <br>
 
