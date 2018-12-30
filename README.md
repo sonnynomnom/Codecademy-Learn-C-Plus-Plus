@@ -28,8 +28,8 @@ $ ./hello
 
 - [x] [`hello.cpp`](1-hello-world/hello.cpp)  
 - [x] [`pattern.cpp`](1-hello-world/pattern.cpp)  
-- [x] `letter.cpp`
-- [x] `spell.cpp`
+- [x] [`letter.cpp`](1-hello-world/letter.cpp)
+- [x] [`spell.cpp`](1-hello-world/spell.cpp)
 
 **Block Letters:**
 
@@ -38,21 +38,21 @@ $ ./hello
 
 ## 2. Variables ##
 
-- [x] `temperature.cpp`
-- [x] `temperature2.cpp`
-- [x] `bmi.cpp`
+- [x] [`temperature1.cpp`](2-variables/temperature1.cpp)
+- [x] [`temperature2.cpp`](2-variables/temperature2.cpp)
+- [x] [`bmi.cpp`](2-variables/bmi.cpp)
 
 **Dog Years:**
 
-- [x] [`dog_years.cpp`](Programs/dog_years.cpp)
+- [x] [`dog_years.cpp`](2-variables/dog-years/dog_years.cpp)
 
 **Quadratic Formula:**
 
-- [x] [`quadratic.cpp`](Programs/quadratic.cpp)
+- [x] [`quadratic.cpp`](2-variables/quadratic-formula/quadratic.cpp)
 
 **Piggy Bank:**
 
-- [x] [`currency.cpp`](Programs/quadratic.cpp)
+- [x] [`currency.cpp`](2-variables/piggy-bank/currency.cpp)
 
 ## 3. Conditionals & Logic ##
 
