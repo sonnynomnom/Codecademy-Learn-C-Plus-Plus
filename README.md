@@ -78,16 +78,19 @@ $ ./hello
 
 ## 4. Loops ##
 
-- [x] [`enterPIN.cpp`](Programs/enterPIN.c)
-- [x] [`guessing1.cpp`](Programs/guessing1.c)
-- [x] [`guessing2.cpp`](Programs/guessing2.c)
-- [x] [`troublemaker.cpp`](Programs/trouble.c)
+- [x] [`enter_pin.cpp`](4-loops/enter_pin.cpp)
+- [x] [`guess.cpp`](4-loops/guess.cpp)
+- [x] [`square.cpp`](4-loops/square.cpp)
+- [x] [`troublemaker.cpp`](4-loops/troublemaker.cpp)
+- [x] [`99bottles.cpp`](4-loops/99bottles.cpp)
 
 **Fizz Buzz**
 
-- [x]  [`fizzbuzz.cpp`](Programs/fizzbuzz.c)
+- [x]  [`fizzbuzz.cpp`](4-loops/fizzbuzz/fizzbuzz.cpp)
 
-## 5. More coming soon! ##
+## 5. Arrays ##
+
+* Coming soon!
 
 ### Terminal Game Challenge 2019 ###
 
