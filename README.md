@@ -57,25 +57,24 @@ $ ./hello
 
 ## 3. Conditionals & Logic ##
 
-- [x] `coinflip.cpp`
-- [x] `grade.cpp`
-- [x] `pH.cpp`
-- [x] `pokedex.cpp`
-- [x] `spaceboxer.cpp`
+- [x] [`coinflip.cpp`](3-conditionals-and-logic/coinflip.cpp)
+- [x] [`grade.cpp`](3-conditionals-and-logic/grade.cpp)
+- [x] [`pH.cpp`](3-conditionals-and-logic/pH.cpp)
+- [x] [`pokedex.cpp`](3-conditionals-and-logic/pokedex.cpp)
+- [x] [`space.cpp`](3-conditionals-and-logic/space.cpp)
+- [ ] `leapyear.cpp`
 
 **Magic 8-Ball**
 
-- [x] [`magic8.cpp`](Programs/magic8.cpp)
+- [x] [`magic8.cpp`](3-conditionals-and-logic/magic-8-ball/magic8.cpp)
 
 **Harry Potter Sorting Hat**
 
-- [x] [`sortinghat.cpp`](Programs/sortinghat.cpp)
+- [x] [`sortinghat.cpp`](3-conditionals-and-logic/harry-potter-sorting-hat/sortinghat.cpp)
 
 **Rock Paper Scissors Lizard Spock**
 
-- [x] [`rock_paper_scissors.cpp`](Programs/rock_paper_scissors.cpp)
-
-- [ ] `leapyear.cpp`
+- [x] [`rock_paper_scissors.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/rock_paper_scissors.cpp)
 
 ## 4. Loops ##
 
