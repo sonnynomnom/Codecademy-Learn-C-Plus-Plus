@@ -31,7 +31,7 @@ $ ./hello
 - [x] `letter.cpp`
 - [x] `spell.cpp`
 
-Block Letters
+**Block Letters:**
 
 - [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
 - [x] [`snowman.cpp`](1-hello-world/block-letters/snowman.cpp)
@@ -42,15 +42,15 @@ Block Letters
 - [x] `temperature2.cpp`
 - [x] `bmi.cpp`
 
-**Dog Years**
+**Dog Years:**
 
 - [x] [`dog_years.cpp`](Programs/dog_years.cpp)
 
-**Quadratic Formula**
+**Quadratic Formula:**
 
 - [x] [`quadratic.cpp`](Programs/quadratic.cpp)
 
-**Piggy Bank**
+**Piggy Bank:**
 
 - [x] [`currency.cpp`](Programs/quadratic.cpp)
 
@@ -75,30 +75,27 @@ Block Letters
 - [x] [`rock_paper_scissors.cpp`](Programs/rock_paper_scissors.cpp)
 
 - [ ] `leapyear.cpp`
-- [ ] `switch.cpp`
 
 ## 4. Loops ##
 
-- [x] [`enterPIN.c`](Programs/enterPIN.c)
-- [x] [`guessing1.c`](Programs/guessing1.c)
-- [x] [`guessing2.c`](Programs/guessing2.c)
-
-- [x] [`youngmoney.c`](Programs/youngmoney.c)
-- [x] [`trouble.c`](Programs/trouble.c)
+- [x] [`enterPIN.cpp`](Programs/enterPIN.c)
+- [x] [`guessing1.cpp`](Programs/guessing1.c)
+- [x] [`guessing2.cpp`](Programs/guessing2.c)
+- [x] [`troublemaker.cpp`](Programs/trouble.c)
 
 **Fizz Buzz**
 
-- [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
+- [x]  [`fizzbuzz.cpp`](Programs/fizzbuzz.c)
 
 
 ## Others: ##
 
-- [x] [`adding.c`](Programs/adding.c)
+- [ ] `adding.cpp`
 
-- [x] [`pattern1.c`](Programs/pattern1.c)
-- [x] [`pattern2.c`](Programs/pattern2.c)
+- [ ] `pattern1.c
+- [ ] `pattern2.c`
 
-- [x] [`prime1.c`](Programs/prime1.c)
+- [x] `prime1.c`(Programs/prime1.c)
 - [x] [`prime2.c`](Programs/prime2.c)
 
 - [x] [`reverse.c`](Programs/reverse.c)
