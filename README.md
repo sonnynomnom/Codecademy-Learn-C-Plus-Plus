@@ -41,8 +41,17 @@ $ ./hello
 - [x] `temperature.cpp`
 - [x] `temperature2.cpp`
 - [x] `bmi.cpp`
+
+**Dog Years**
+
 - [x] [`dog_years.cpp`](Programs/dog_years.cpp)
+
+**Quadratic Formula**
+
 - [x] [`quadratic.cpp`](Programs/quadratic.cpp)
+
+**Piggy Bank**
+
 - [x] [`currency.cpp`](Programs/quadratic.cpp)
 
 ### 3. Conditionals & Logic ###
@@ -52,8 +61,17 @@ $ ./hello
 - [x] `pH.cpp`
 - [x] `pokedex.cpp`
 - [x] `spaceboxer.cpp`
+
+**Magic 8-Ball**
+
 - [x] [`magic8.cpp`](Programs/magic8.cpp)
+
+**Harry Potter Sorting Hat**
+
 - [x] [`sortinghat.cpp`](Programs/sortinghat.cpp)
+
+**Rock Paper Scissors Lizard Spock**
+
 - [x] [`rock_paper_scissors.cpp`](Programs/rock_paper_scissors.cpp)
 
 - [ ] `leapyear.cpp`
@@ -67,7 +85,14 @@ $ ./hello
 
 - [x] [`youngmoney.c`](Programs/youngmoney.c)
 - [x] [`trouble.c`](Programs/trouble.c)
+
+**Fizz Buzz**
+
 - [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
+
+
+Others:
+
 - [x] [`adding.c`](Programs/adding.c)
 
 - [x] [`pattern1.c`](Programs/pattern1.c)
