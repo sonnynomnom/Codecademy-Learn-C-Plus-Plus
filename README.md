@@ -54,7 +54,7 @@ $ ./hello
 
 - [x] [`currency.cpp`](Programs/quadratic.cpp)
 
-### 3. Conditionals & Logic ###
+## 3. Conditionals & Logic ##
 
 - [x] `coinflip.cpp`
 - [x] `grade.cpp`
@@ -77,7 +77,7 @@ $ ./hello
 - [ ] `leapyear.cpp`
 - [ ] `switch.cpp`
 
-### 4. Loops ###
+## 4. Loops ##
 
 - [x] [`enterPIN.c`](Programs/enterPIN.c)
 - [x] [`guessing1.c`](Programs/guessing1.c)
@@ -91,7 +91,7 @@ $ ./hello
 - [x] [`fizzbuzz.c`](Programs/fizzbuzz.c)
 
 
-Others:
+## Others: ##
 
 - [x] [`adding.c`](Programs/adding.c)
 
