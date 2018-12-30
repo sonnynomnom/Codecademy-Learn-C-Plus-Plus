@@ -19,7 +19,7 @@ https://www.codecademy.com/learn/learn-c-plus-plus
 [https://discord.gg/N95DFrT](https://discord.gg/N95DFrT)  
 
 
-### 1. Hello World ###
+## 1. Hello World ##
 
 ```
 $ g++ hello.cpp -o hello
@@ -36,7 +36,7 @@ $ ./hello
 - [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
 - [x] [`snowman.cpp`](1-hello-world/block-letters/snowman.cpp)
 
-### 2. Variables ###
+## 2. Variables ##
 
 - [x] `temperature.cpp`
 - [x] `temperature2.cpp`
