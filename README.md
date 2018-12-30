@@ -98,7 +98,6 @@ $ ./hello
 
 ### Hall of Fame ###
 
-* [MetroCard Calculator (New York)](Projects/metrocard.c) - Brandon Lim, Chris Narducci & Jacob Lindahl
 * You?
 
 <br>
