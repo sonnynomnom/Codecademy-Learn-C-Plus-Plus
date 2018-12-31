@@ -7,7 +7,7 @@ int main()
   double q;
   double c;
 
-  float dollars;
+  double dollars;
 
   std::cout << "🇲🇽 Enter number of Pesos: ";
   std::cin >> p;
