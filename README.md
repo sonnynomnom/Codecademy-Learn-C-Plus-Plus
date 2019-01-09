@@ -2,8 +2,8 @@
 
 <a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/logo.png" width=200;></a>
 
-**Curriulum:** Sonny Li (sonny@codecademy.com) 
-**Curriulum:** Mariel Frank (mariel@codecademy.com) 
+**Curriulum:** Sonny Li (sonny@codecademy.com)  
+**Curriulum:** Mariel Frank (mariel@codecademy.com)  
 **Artwork:** Jared Langel
 
 ## Course Link ##
