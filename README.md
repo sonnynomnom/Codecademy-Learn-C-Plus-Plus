@@ -78,6 +78,7 @@ $ ./hello
 **Rock Paper Scissors Lizard Spock**
 
 - [x] [`rock_paper_scissors.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/rock_paper_scissors.cpp)
+- [x] [`rock_paper_scissors_lizard_spock.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/rock_paper_scissors_lizard_spock.cpp)
 
 ## 4. Loops ##
 
