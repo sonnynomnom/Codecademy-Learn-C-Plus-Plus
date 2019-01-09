@@ -1,4 +1,4 @@
-# Codecademy Learn C++
+# Learn C++ | Codecademy
 
 <a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/sonnynomnom/codecademy-learn-c-plus-plus/blob/master/logo.png" width=200;></a>
 
