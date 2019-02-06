@@ -94,13 +94,17 @@ $ ./hello
 
 ## 5. Vectors ##
 
-- [ ] tokyo.cpp
-- [ ] bleep.cpp
-- [ ] whaletalk.cpp
-- [ ] ufo.cpp
-- [ ] whaletalk.cpp
+- [ ] 1tokyo.cpp1
+- [ ] `bleep.cpp`
+- [ ] `whaletalk.cpp`
+- [ ] `ufo.cpp`
+- [ ] `whaletalk.cpp`
 
 ### Terminal Game Challenge 2019 ###
+
+* Coming soon!
+
+### Codecademy C++ Style Guide ###
 
 * Coming soon!
 
