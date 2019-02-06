@@ -92,9 +92,13 @@ $ ./hello
 
 - [x]  [`fizzbuzz.cpp`](4-loops/fizzbuzz/fizzbuzz.cpp)
 
-## 5. Arrays ##
+## 5. Vectors ##
 
-* Coming soon!
+- [ ] tokyo.cpp
+- [ ] bleep.cpp
+- [ ] whaletalk.cpp
+- [ ] ufo.cpp
+- [ ] whaletalk.cpp
 
 ### Terminal Game Challenge 2019 ###
 
