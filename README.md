@@ -99,11 +99,21 @@ $ ./hello
 - [ ] `bleep.cpp`
 - [ ] `ufo.cpp`
 
+## 6. Functions ##
+
+## 7. OOP ##
+
+## 8. Pointers ##
+
 ### Terminal Game Challenge 2019 ###
 
 * Coming soon!
 
 ### Codecademy C++ Style Guide ###
+
+* Coming soon!
+
+### Codecademy C++ Cheatsheets ###
 
 * Coming soon!
 
